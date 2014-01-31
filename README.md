@@ -3,8 +3,6 @@
 
 A custom element using polymerJS for character count - Based on customelements.io
 
-Web Component wrapper for [Twitter's button](https://twitter.com/about/resources/buttons#tweet) using Polymer.
-
 ## Usage
 
 1. Import Web Components':
@@ -34,5 +32,6 @@ Attribute | Options       | Default                    | Description
 `height`  | *int*         | `200`                       | The height of the texarea
 `width`   | *int*         | `500`                      | The width of the textarea
 
+Note: I used style css to textarea twitter bootstrap
 
 © Sóstenes Gomes
