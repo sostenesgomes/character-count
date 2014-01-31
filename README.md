@@ -31,8 +31,8 @@ Web Component wrapper for [Twitter's button](https://twitter.com/about/resources
 Attribute | Options       | Default                    | Description
 ---       | ---           | ---                        | ---
 `name`    | *string*      | `textarea-text`            | The name attribute of the textarea
-`height`  | *int*         | `25`                       | The height of the texarea
-`width`   | *int*         | `115`                      | The width of the textarea
+`height`  | *int*         | `200`                       | The height of the texarea
+`width`   | *int*         | `500`                      | The width of the textarea
 
 
 © Sóstenes Gomes
