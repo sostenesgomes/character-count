@@ -3,6 +3,8 @@
 
 A custom element using polymerJS for character count - Based on customelements.io
 
+> [Check it live](http://sostenesgomes.github.io/charachter-count).
+
 ## Usage
 
 1. Import Web Components':
