@@ -3,6 +3,10 @@
 
 A custom element using polymerJS for character count - Based on customelements.io
 
+## Demo
+
+![Character Count](http://i1024.photobucket.com/albums/y307/analistasn/charactercount_zpsec3281fd.png)
+
 > [Check it live](http://sostenesgomes.github.io/character-count).
 
 ## Usage
